@@ -182,4 +182,7 @@ footer{
   .hands img{
     margin: 0 10px;
   }
+  .score{
+    height: 15vh;
+  }
 }
