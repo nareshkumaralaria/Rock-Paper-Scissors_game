@@ -171,7 +171,7 @@ footer{
 
 @media (max-width: 740px) {
   section{
-    width: 375px;
+    width: 370px;
   }
   .options{
     flex-direction: column;
@@ -184,5 +184,14 @@ footer{
   }
   .score{
     height: 15vh;
+  }
+  .winner{
+    font-size: 25px
+  }
+  .score h2{
+    font-size: 20px
+  }
+  .score p{
+    font-size: 15px
   }
 }
